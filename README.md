@@ -1,6 +1,7 @@
 # Regex Search Workers
 This project is a final avaliation to Distributed Systems class from UERJ.
-We developed a script to search for a regex in a text, using the Sucuri lib, developed by the course teacher.
+We developed a script to search for a regex in a text using the Sucuri lib developed by the course teacher.
+The objective is to understand how the use of parallel computing impacts in the code execution performance.
 
 # Sucuri
 Python Dataflow Programming Library
